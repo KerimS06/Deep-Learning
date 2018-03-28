@@ -1,0 +1,1 @@
+{'accuracy': 0.9769, 'loss': 0.07323766, 'global_step': 20000}
